@@ -1,6 +1,6 @@
 ﻿namespace Tyuiu.AndrianovSA.Sprint0.Task1.V0
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
